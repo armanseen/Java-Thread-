@@ -1,0 +1,104 @@
+Starting Time : 22:48:40.507878100
+
+Current Account Was Created
+Humans Thread Group Was Created
+Objects Thread Group Was Created
+Student Thread Was Created
+Parents Thread Was Created
+Loan Company Thread Was Created
+University Thread Was Created
+Student transactions were initialized
+Parents transactions were initialized
+Loan Company transactions were initialized
+University transactions were initialized
+Student transactions were filled
+Parents transactions were filled
+Loan Company transactions were filled
+University transactions were filled
+Starting Student Thread
+Starting Parents Thread
+Starting Loan Company Thread
+Starting University Thread
+Student's Parents starting to Deposit a gift
+Student's Parents Depositing Gift
+Student Loan Company starting to deposit
+Student Loan Company depositing
+David starting to deposit
+David depositing
+University attempts to withdraw fees
+University withdrawing fees
+University Finished Withdrawing
+University attempts to withdraw fees
+University withdrawing fees
+Student's Parents finished Depositing
+Student's Parents starting to Deposit a gift
+Student's Parents Depositing Gift
+Student's Parents finished Depositing
+Parents Transactions Finished.(End of the Thread)
+University Finished Withdrawing
+University attempts to withdraw fees
+University withdrawing fees
+University Finished Withdrawing
+University Transactions Finished.(End of the Thread)
+Student Loan Company Finished Depositing
+Student Loan Company starting to deposit
+Student Loan Company depositing
+David Finished Depositing
+David starting to withdraw
+David withdrawing
+Student Loan Company Finished Depositing
+Student Loan Company starting to deposit
+Student Loan Company depositing
+Student Loan Company Finished Depositing
+Loan Company Transactions Done.(End of the Thread)
+David Finished withdrawing
+David starting to withdraw
+David withdrawing
+David Finished withdrawing
+David starting to withdraw
+David withdrawing
+David Finished withdrawing
+David starting to deposit
+David depositing
+David Finished Depositing
+David starting to withdraw
+David withdrawing
+David Finished withdrawing
+Student Transactions Finished.(End of the Thread)
+
+Statement for David's Account: 100
+================================================
+Customer            Amount          Balance              
+
+================================================
+1324125648            1500          1500             
+
+2189232621            15000          16500             
+
+1123215648            50000          66500             
+
+3112332611            5000          61500             
+
+4115297242            7000          54500             
+
+7152232648            2000          56500             
+
+3211232641            9000          47500             
+
+4155262742            20000          67500             
+
+2123412648            20000          47500             
+
+3151232641            25000          72500             
+
+2123412648            2000          70500             
+
+1433712248            1000          69500             
+
+5823915647            100000          169500             
+
+9523225248            700          168800             
+
+================================================
+
+End at : 22:48:57.186033
